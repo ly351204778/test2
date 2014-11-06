@@ -1,3 +1,6 @@
+/**
+此类只做测试用
+*/
 class test{
    int i;
 
