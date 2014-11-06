@@ -2,7 +2,8 @@
 此类只做测试用
 */
 class test{
-   int i;
+   //我在这里改一个BUG试试
+   private int i;
 
    public test(int i){
      this.i = i;
