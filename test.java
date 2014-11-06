@@ -3,5 +3,6 @@ class test{
 
    public test(int i){
      this.i = i;
+     this.i++;
    }
 }
